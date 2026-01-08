@@ -25,3 +25,13 @@ The final stage involved building an interactive interface for data-driven insig
 * **Geospatial Mapping:** Implemented Map Visualizations to represent customer distribution geographically.
 ## Dashboard
 <img width="1070" height="443" alt="Dashboard image" src="https://github.com/user-attachments/assets/95398a24-d7bc-49ed-a746-55296bb9ba82" />
+## Project Insights
+- Customer volume shows seasonal trends, with the highest number of customers in December and the lowest in February.
+- The majority of customers are Active, indicating strong overall engagement.
+- A significant portion of customers remains Non-Active and Pending, highlighting opportunities for reactivation.
+- Female customers slightly dominate the customer base.
+- Silver and Platinum memberships represent the largest segments.
+- Instagram and TikTok contribute the highest number of customers.
+- Customers are concentrated in several key regions, suggesting opportunities for regional targeting.
+## Final Conclusion
+To support business growth, efforts should focus on maintaining engagement with active customers, while reactivating non-active and pending customers through targeted and platform-specific strategies. This dashboard can serve as a practical decision-support tool for marketing, customer engagement, and strategic planning.
