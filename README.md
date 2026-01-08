@@ -17,10 +17,7 @@ This project aims to analyze customer data and present key insights through an i
 The initial phase focused on ensuring data integrity and consistency
 ### 2. Data Transformation
 To prepare for visualization, the raw data was aggregated and restructured
-**Pivot Table Creation:** Built multiple tables to summarize customer counts by:
-    * **Temporal:** Monthly and Yearly trends.
-    * **Demographic:** Gender, Status, and Membership levels.
-    * **Technical:** Distribution across different platforms and regions.
+* **Pivot Table Creation:** Built multiple tables to summarize customer counts.
 ### 3. Dashboard Development
 The final stage involved building an interactive interface for data-driven insights:
 * **Visualization Tools:** Developed Pivot Charts including Line Graphs for trends, Donut Charts for proportions, and KPI Cards for quick summaries.
