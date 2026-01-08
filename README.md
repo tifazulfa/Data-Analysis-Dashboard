@@ -23,3 +23,5 @@ The final stage involved building an interactive interface for data-driven insig
 * **Visualization Tools:** Developed Pivot Charts including Line Graphs for trends, Donut Charts for proportions, and KPI Cards for quick summaries.
 * **Interactive Features:** Integrated **Slicers** for dynamic filtering by *Year*, *Month*, and *Occupation*.
 * **Geospatial Mapping:** Implemented Map Visualizations to represent customer distribution geographically.
+## Dashboard
+<img width="1070" height="443" alt="Dashboard image" src="https://github.com/user-attachments/assets/95398a24-d7bc-49ed-a746-55296bb9ba82" />
